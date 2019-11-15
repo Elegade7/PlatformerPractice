@@ -1,6 +1,4 @@
-/* Draw Event
- *  - creating white flash over enemy
- */
+/// @description 
 
 draw_self();
 

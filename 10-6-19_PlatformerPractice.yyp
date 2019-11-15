@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "3ed2f9d3-c62d-4917-b167-2bcb86d1f99d",
+            "Value": {
+                "id": "c23e9ac6-d52c-4d75-92cc-e129d2c4d5ca",
+                "resourcePath": "sprites\\sGun1\\sGun1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3fe8e859-8fa3-4e76-bb33-cf9259d5eedf",
             "Value": {
                 "id": "991bf96d-c728-4b3c-acc6-fc61c7b0ba35",
@@ -260,6 +268,14 @@
                 "id": "622cff10-d2b5-45df-93b8-5a2bf0615238",
                 "resourcePath": "views\\6a9dd459-9448-4971-9891-5a2e78df6d60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6a9f7d59-6717-4ff4-be6a-2bd0cbe4a7be",
+            "Value": {
+                "id": "bf9e0649-232c-4ee5-b3ff-afd0b0e51dff",
+                "resourcePath": "objects\\oGunPickup\\oGunPickup.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "c6fe6db4-6e1c-4dff-a7d7-db8dabfc45de",
+            "Value": {
+                "id": "51613765-adb1-44ae-92ea-8acd62638dd0",
+                "resourcePath": "objects\\pShootable\\pShootable.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb08e815-dd7c-41c9-8199-0b752eed7d73",
             "Value": {
                 "id": "78eed879-b300-4c6f-826d-2364e87a731e",
@@ -599,11 +623,27 @@
             }
         },
         {
+            "Key": "f5ef10d2-9bb4-47f3-a063-dba87efcb614",
+            "Value": {
+                "id": "d3299863-adf4-4c47-a6b3-87318842d879",
+                "resourcePath": "sprites\\sCrate\\sCrate.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fd8017f3-29c7-4eb4-b8e1-ea33fb397ca9",
             "Value": {
                 "id": "1182e629-5285-48fd-8836-ad8cc4a80c01",
                 "resourcePath": "views\\fd8017f3-29c7-4eb4-b8e1-ea33fb397ca9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff948a4a-6bc1-42eb-abae-8ae577a8bcc2",
+            "Value": {
+                "id": "2bea7eaa-0ce2-42b3-87b9-a52be9282a34",
+                "resourcePath": "objects\\oCrate\\oCrate.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
